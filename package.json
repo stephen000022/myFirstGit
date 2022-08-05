@@ -1,7 +1,7 @@
 {
-  "name": "myfirstgit",
+  "name": "week3-workshop",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Project of VsCode\r npm install\r Node index.js\r Week 1 | Week 2\r ------------ | -------------\r Content from cell 1 | Content from cell 2\r Content in the first column | Content in the second column",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stephen000022/myFirstGit/issues"
   },
-  "homepage": "https://github.com/stephen000022/myFirstGit#readme"
+  "homepage": "https://github.com/stephen000022/myFirstGit#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
